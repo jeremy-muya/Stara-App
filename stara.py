@@ -4,7 +4,7 @@ from datetime import datetime
 
 # Dummy user
 users = {
-    'Ng'ang'a': {'password': 'paswadnoma2024', 'role': 'admin'},
+    'Nganga': {'password': 'paswadnoma2024', 'role': 'admin'},
     'Grace': {'password': 'Grace2024password', 'role': 'user'},
     'Mogere': {'password': 'passwordMogere2024.', 'role': 'user'},
 }
